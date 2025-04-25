@@ -1,0 +1,149 @@
+body{
+
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.all{
+   
+    background-image: url(../Images/back.jpg);
+    height: 100vh;
+    display: flex;
+    background-size: 100% 100%;
+    font-size: 20px;
+  
+}
+.cont{
+   
+   
+    width: 55%;
+    margin: auto;
+    text-align: center;
+   padding: 20px 20px;
+   color: azure;
+}
+.cont h1{
+    font-size: 60px;
+    margin: 0;
+}
+.button{
+    width: 150px;
+   padding: 20px;
+   margin: 20px 20px;
+    font-size:20px;
+    background-color: rgba(255, 255, 255 ,0);
+    color: azure;
+}
+.about{
+    display: flex;
+    width: 80%;
+    height: 100vh;
+    margin: auto;
+}
+.about-img2{
+    margin: auto;
+    float: left;
+    margin-left: 20px;
+    width: 50%;
+
+}
+.about-img2 img{
+    width: 100%;
+}
+.about-text{
+    line-height: 1.86em;
+    margin: auto;
+    padding: 60px;
+  
+    float: left;
+ 
+    width: 50%;
+}
+.about-list ul li{
+ 
+    padding: 15px;
+}
+.our-offer{
+
+ display: flex;
+    width: 90%;
+    margin: auto;
+    height: 90vh;
+ 
+}
+.offer-img{
+    
+  
+    float: left;
+    width: 40%;
+    margin: auto;
+   
+}
+.offer-img img{
+    width: 100%;
+}
+.offer-text{
+    float: right;
+    height:50vh ;
+    line-height: 1.86em;
+    width: 40%;
+    margin: auto;
+    padding: 40px;
+}
+.offer-text h1{
+    padding: 10px;
+}
+
+.clear{
+    clear: both;
+}
+.our-bakery{
+
+width: 85%;
+margin: auto;
+
+height: 100vh;
+line-height: 1.8em;
+
+margin-top: 20px;
+}
+.bakery-text{
+    margin: 20px;
+    padding: 20px;
+
+text-align: center;
+}
+.bakery-img {
+    
+    text-align: center;
+    display: flex;
+    margin: auto;
+
+}
+.bakery-img img{
+    
+  width: 100%;
+
+}
+.bakery-img1{
+
+  float: left;
+  margin-left: 20px;
+  width: 33%;
+
+}
+
+.bakery-img2{
+
+  float: left;
+  margin-left: 20px;
+  width: 33%;
+  
+
+}
+.bakery-img3{
+
+  float: left;
+  margin-left: 20px;
+  width: 33%;
+     
+}
